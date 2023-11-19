@@ -1,4 +1,4 @@
-package org.example.listner;
+package org.example.listener;
 
 import org.example.entity.Role;
 import org.example.entity.User;

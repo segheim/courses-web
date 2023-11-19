@@ -1,7 +1,5 @@
 package org.example.entity;
 
-import org.apache.log4j.Logger;
-
 import java.util.Objects;
 import java.util.Set;
 
